@@ -14,7 +14,7 @@ Após a formação, comecei minha jornada na graduação em ciência da computa�
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Jest, Docker, Photoshop, Adobe XD e Figma.</strong>
+  💼 <strong>Ferramentas:</strong> Jest, Docker, Photoshop, Adobe XD e Figma.
 </p>
 
 <p align="left">
