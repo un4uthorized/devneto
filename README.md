@@ -25,14 +25,15 @@ As a fullstack I use languages ​​like <b>javascript</b> and <b>ruby</b> ​�
 </center>
 
 
+<br>
+<br>
 
-<a href="http://google.com.au/""> 
-![linkedin](https://raw.githubusercontent.com/devneto/devneto/master/images/linkedin.png)
-</a>
+<center>
 
-
-![twitter](https://raw.githubusercontent.com/devneto/devneto/master/images/twitter.png)
-![instagram](https://raw.githubusercontent.com/devneto/devneto/master/images/instagram.png)
-![devto](https://raw.githubusercontent.com/devneto/devneto/master/images/devto.png)
+[![linkedin](https://raw.githubusercontent.com/devneto/devneto/master/images/linkedin.png)](https://www.linkedin.com/in/miguel-neto-3ab339193/)
+[![twitter](https://raw.githubusercontent.com/devneto/devneto/master/images/twitter.png)](https://twitter.com/_devneto)
+[![instagram](https://raw.githubusercontent.com/devneto/devneto/master/images/instagram.png)](https://www.instagram.com/dev.neto/)
+[![devto](https://raw.githubusercontent.com/devneto/devneto/master/images/devto.png)](https://dev.to/devneto)
 ![twitch](https://raw.githubusercontent.com/devneto/devneto/master/images/twitch.png)
 
+</center>
