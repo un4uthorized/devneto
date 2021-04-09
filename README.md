@@ -1,4 +1,9 @@
-<img src="https://i.pinimg.com/originals/9b/60/8e/9b608e67e25e235c6fc42b8aecb3612c.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<center>
+
+![header](https://raw.githubusercontent.com/devneto/devneto/master/images/header.png)
+
+</center>
 
 <p align="left"> 
   Olá, meu nome é Miguel, tenho 21 anos e <strong>QA é o sommelier de código?</strong> Eu sou formado em ensino técnico com ênfase em eletrônica 👨🏽‍🔬, outrora quando mais jovem, sempre fui apaixonado por robôs e historias que envolviam os mesmo, participei de competições e batalhas durante o ensino técnico .<br><br>
