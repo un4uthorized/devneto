@@ -5,18 +5,15 @@
 
 </center>
 
-<p align="left"> 
-  Olá, meu nome é Miguel, tenho 21 anos e <strong>QA é o sommelier de código?</strong> Eu sou formado em ensino técnico com ênfase em eletrônica 👨🏽‍🔬, outrora quando mais jovem, sempre fui apaixonado por robôs e historias que envolviam os mesmo, participei de competições e batalhas durante o ensino técnico .<br><br>
+ - I'm <b>21 years</b> old, <b>live in Brazil 🇧🇷</b> and currently work as a <b>full stack developer;</b>
+ - I love to <b>run</b>;
+ - I make good food in my free time 🍜;
+ - I usually write for [Devto](https://dev.to/);
+ - I find the system of a wolf pack *interesting*.
 
-Após a formação, comecei minha jornada na graduação em ciência da computação pela Pontifícia Universidade Católica de Minas Gerais
- e anteriormente ao processo eu construi habilidades no meio de desenvolvimento web e hoje atuo como fullstack developer 👨🏽‍💻
-</p>
 
-<p align="left">
-  🟨 <strong>Javascript</strong> | Vuejs, Nuxt, React, Next, Nest, Node e Adonis <br>
-  💎 <strong>Ruby </strong> | Rails <br>
-  🔪 <strong>ShellScript </strong> 
-</p>
+![abilities](https://raw.githubusercontent.com/devneto/devneto/master/images/abilities.png)
+
 
 <p align="left">
   💼 <strong>Ferramentas:</strong> Jest, Docker, Photoshop, Adobe XD e Figma.
