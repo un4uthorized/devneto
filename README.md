@@ -9,7 +9,6 @@
  - I love to <b>run</b>;
  - I make good food in my free time 🍜;
  - I usually write for [dev.to](https://dev.to/devneto);
- - I find the system of a wolf pack *interesting*.
 
 
 <center>
